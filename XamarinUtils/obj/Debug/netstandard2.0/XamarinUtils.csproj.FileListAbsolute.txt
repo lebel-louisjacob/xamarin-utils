@@ -1,0 +1,9 @@
+C:\data\school\pam\XamarinUtils\XamarinUtils\bin\Debug\netstandard2.0\XamarinUtils.deps.json
+C:\data\school\pam\XamarinUtils\XamarinUtils\bin\Debug\netstandard2.0\XamarinUtils.dll
+C:\data\school\pam\XamarinUtils\XamarinUtils\bin\Debug\netstandard2.0\XamarinUtils.pdb
+C:\data\school\pam\XamarinUtils\XamarinUtils\obj\Debug\netstandard2.0\XamarinUtils.csprojAssemblyReference.cache
+C:\data\school\pam\XamarinUtils\XamarinUtils\obj\Debug\netstandard2.0\XamarinUtils.AssemblyInfoInputs.cache
+C:\data\school\pam\XamarinUtils\XamarinUtils\obj\Debug\netstandard2.0\XamarinUtils.AssemblyInfo.cs
+C:\data\school\pam\XamarinUtils\XamarinUtils\obj\Debug\netstandard2.0\XamarinUtils.csproj.CoreCompileInputs.cache
+C:\data\school\pam\XamarinUtils\XamarinUtils\obj\Debug\netstandard2.0\XamarinUtils.dll
+C:\data\school\pam\XamarinUtils\XamarinUtils\obj\Debug\netstandard2.0\XamarinUtils.pdb
