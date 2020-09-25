@@ -7,13 +7,19 @@ namespace XamarinUtils
     {
         public event PropertyChangedEventHandler PropertyChanged;
 
-        protected void UpdateBinding<A>(ref A currentValue, in A newValue, [CallerMemberName] in string propertyName = "")
+        protected void UpdateBinding<A, B>(ref A currentValue, in B newValue, [CallerMemberName] in string propertyName = "")
+            where B : A
         {
             if (!newValue.Equals(currentValue))
             {
                 currentValue = newValue;
                 PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
             }
+        }
+
+        protected void RaisePropertyChanged([CallerMemberName] in string propertyName = "")
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
     }
 }
